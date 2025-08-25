@@ -1,43 +1,51 @@
 1. [Topics](#1)
 2. [Lab](#2)
 3. [Books](#3)
-4. [Notes](#4)
+4. [Exercise](#4)
 5. [Sample question](#5)
 6. [Self study](#6)
 
 <br>
 <br>
 
-# 1. Syllabus<a id='1'></a>
+### Google class
 
-### UNIT 1: OVERVIEW OF C++
+- Google class invite link [click me](https://classroom.google.com/c/NzkxMzU2Mjk5NjA2?cjc=4rtyifi4)
 
-Basics of Procedure-oriented language, Difference between C and C++, algorithm and flow chart, datatypes and tokens,
-Object-Oriented Approaches, Basic Concepts: Objects, Classes, Abstraction, Encapsulation, Inheritance, Polymorphism,
-Dynamic Binding, Message Passing, Characteristics of Object-Oriented Languages, data types, tokens.
+<br>
 
-### UNIT 2: CLASSES AND OBJECTS
+# 1. Syllabus: 71101002001<a id='1'></a>
 
-Abstract data types, Objects & Classes, attributes, methods, C++ class declaration, Local Class, and Global Class, and
-behavior of an object, Local Object and Global Object, Scope resolution operator, Constructors and destructors, Instantiation
-of objects, Types of Constructors.
+### UNIT 1: INTRODUCTION TO PROGRAMMING & C++ BASICS
 
-### UNIT 3: INHERITANCE
+Problem definition, Algorithm, and flow chart, Basic concepts of programming, Introduction to C++, OOP concepts; Class
+and Object, Encapsulation, Inheritance, polymorphism, abstraction, C++ syntax, structure of a program, comments, Variables,
+constants, data types, Operators and expressions (Arithmetic, Logical, Relational), Input/output using cin and cout.
 
-Inheritance, Types of Inheritance, Access modes – public, private & protected, Abstract Classes, Ambiguity resolution using
-the scope resolution operator, Aggregation, composition vs classification hierarchies, Overriding inheritance methods,
-Constructors in derived classes, Nesting of Classes.
+### UNIT 2: CONTROL FLOW AND ITERATION
 
-### UNIT 4: POLYMORPHISM
+Decision-Making Constructs: Introduction to conditional statements, if Statement: Syntax and flow, if-else Statement:
+Branching logic, Nested if Statements: Multi-level conditions, switch Case Statement: Multi-way decision making. Looping
+Constructs – Introduction and Use Cases, Concept and need for loops in programming, Entry-controlled and exit-controlled
+loops, for Loop, while Loop, do-while loop, Differences from while and for loops, Jumping Statements; break: Premature exit
+from loop/switch, continue: Skip current iteration, goto: Unconditional jump (use with caution and structure)
 
-Polymorphism, Type of Polymorphism – Compile time and runtime and their differences, Function Overloading: Syntax,
-Rules, and Use Cases, Operator Overloading (Unary and Binary), Polymorphism by parameter: Type Conversion and Default
-Arguments, Virtual Functions: Concept, Usage, and Pitfalls, Pure virtual functions.
+### UNIT 3: ARRAYS, STRINGS, AND FUNCTIONS
 
-### UNIT 5: STRINGS, FILES, AND EXCEPTION HANDLING
+Arrays: 1D and 2D, Discuss the matrix addition and multiplication, C++ string class vs C-style strings, String manipulation,
+Functions: declaration, definition, calling, Function overloading, default arguments, recursion, Passing arrays and strings to
+functions.
 
-Arrays- 2D and 3D, Manipulating different string functions, Streams, and file handling, Formatted and Unformatted
-Input/Output, Exception handling, Generic Programming – function template, class template
+### UNIT 4: STRUCTURES, CLASSES, AND POINTERS
+
+Structures in C++, Object-Oriented Programming (OOP): classes and objects, constructors and destructors, Access specifiers,
+member functions, Introduction to pointers, pointer arithmetic, new and delete, pointers with arrays, pointers to objects.
+
+### UNIT 5: INHERITANCE AND FILE HANDLING
+
+Understand the concept and purpose of inheritance, implement different types of inheritance in C++, and use access specifiers
+(public, protected, private) in inheritance, I/O streams: cin, cout, cerr, clog, File I/O: ifstream, ofstream, fstream, Creating,
+opening, reading, writing, and appending files, Searching and modifying file records, Error handling in file operations
 
 ---
 
@@ -46,7 +54,9 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 
 # 2. 🧪 Lab<a id='2'></a>
 
-1. Write a C++ program to demonstrate [click me]()
+0. Lab Setup [click me](https://github.com/joysmith/KU-UIT/blob/main/PPS/assets/lab/0.%20lab.README.md)<br>
+
+1. Write a C++ program to demonstrate [click me]()<br>
 
    a. Basic input/output, arithmetic operations. <br>
    b. Temperature converter (Celsius ↔ Fahrenheit).
@@ -125,10 +135,9 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 <br>
 <br>
 
-# 4. Notes<a id='4'></a>
+# 4. Exercise<a id='4'></a>
 
-- Download Notes [click me]()
-- Download PPT [click me]()
+- Exercise & Practice [click me](https://github.com/joysmith/KU-UIT/blob/main/Problem%20Solving%20and%20Programming/assets/exercise/1%20basic.md)
 
 ---
 
@@ -148,9 +157,22 @@ Input/Output, Exception handling, Generic Programming – function template, cla
 
 1. [An Introduction to Programming Through C++](https://onlinecourses.nptel.ac.in/noc21_cs38/preview)
 
+---
+
+<br>
+<br>
+
 # 7. Cool project on Internet
 
 1. []()
-1. []()
+
+---
+
+<br>
+<br>
+
+# 8. Extra
+
+1. [Getting started with processing](https://drive.google.com/file/d/14iT7-7a5KSurPryaLw3-f3iw4epSmIbQ/view?usp=sharing)
 
 ---
